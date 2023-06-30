@@ -6,4 +6,4 @@ updates:
     interval: daily
     time: "16:30"
     timezone: "America/New_York"
-  versioning-strategy: auto
+  versioning-strategy: increase
